@@ -57,7 +57,6 @@ public class Order {
         orderItem.setProduct(product);
         orderItem.setQuantity(quantity);
         orderItem.setPrice(price);
-        
         orderItems.add(orderItem);
     }
 }
